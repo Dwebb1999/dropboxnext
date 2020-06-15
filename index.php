@@ -1,4 +1,4 @@
-?php
+<?php
 function getuseridIDFromuserid($userid)
 {
 $find = '@';
